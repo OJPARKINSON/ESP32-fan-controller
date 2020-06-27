@@ -1,0 +1,23 @@
+{
+  "name": "esp32-fan-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OJPARKINSON/ESP32-fan-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OJPARKINSON/ESP32-fan-controller/issues"
+  },
+  "homepage": "https://github.com/OJPARKINSON/ESP32-fan-controller#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "tplink-smarthome-api": "^2.0.0"
+  }
+}
